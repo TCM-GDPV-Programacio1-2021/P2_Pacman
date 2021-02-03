@@ -1,0 +1,13 @@
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.exe
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.deps.json
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.runtimeconfig.json
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.runtimeconfig.dev.json
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.dll
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\bin\Debug\netcoreapp3.1\Pacman.pdb
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.csprojAssemblyReference.cache
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.AssemblyInfo.cs
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.dll
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.pdb
+C:\Users\HP\Documents\TCM\Programación I_2019\P1 2021\P2_Pacman\Pacman\obj\Debug\netcoreapp3.1\Pacman.genruntimeconfig.cache
