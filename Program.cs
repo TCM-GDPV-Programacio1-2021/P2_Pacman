@@ -27,8 +27,8 @@ namespace Pacman
             while ( s == null)
             {
                 s = update();
-                Thread.Sleep(700);//miliseconds
                 mostrar();
+                Thread.Sleep(700);//miliseconds
             }
 
             // PENDENT IMPLEMENTAR : crida el mètode End de la classe Hud
