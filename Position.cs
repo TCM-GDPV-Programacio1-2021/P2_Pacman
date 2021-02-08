@@ -24,11 +24,11 @@ namespace Pacman
         }
         public static Position operator +(Position p1, Position p2)
         {
-            return new Position(p1.row + p2.row, p1.col + p1.row);
+            return new Position(p1.row + p2.row, p1.col + p2.col);
         }
         public static Position operator -(Position p1, Position p2)
         {
-            return new Position(p1.row - p2.row, p1.col - p1.row);
+            return new Position(p1.row - p2.row, p1.col - p2.col);
         }
     }
 }
